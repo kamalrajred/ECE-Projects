@@ -1,4 +1,8 @@
 # Electrical and Computer Engineering Projects
 
-### Does it work like this
-Provided is my projects that I have developed throughout my electrical engineering educational studies
+## About this Repository 
+My name is Kevin Amalraj, an undergraduate student at the University of Michigan - Ann Arbor, and this repository is the collection of my projects that I have completed and am currently working on.
+
+## Project Overview 
+| Subject | Project | Semester | Languages/Tools | Description |
+| :-: | :-: | :-: | :-: | :-: | 
