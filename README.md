@@ -5,5 +5,6 @@ My name is Kevin Amalraj, an undergraduate student at the University of Michigan
 
 ## Project Overview 
 | Project Name | Language/Tools |
+| :-: | :-: |
 | Solar-Powered Autonomous Boat | Arduino/Assembly |
 | Electronic Designs | LTspice |
