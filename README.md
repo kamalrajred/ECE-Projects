@@ -7,5 +7,3 @@ My name is Kevin Amalraj, an undergraduate student at the University of Michigan
 | Project Name | Subject | Language/Tools | Status |
 | :-: | :-: | :-: | :-: |
 | Solar-Powered Autonomous Boat | Embedded Systems | Arduino / Assembly | Completed |
-| Raspberry Pi Home Server | Hardware | Assembly | Completed |
-| 2-Wheel Robot Platform | Embedded Systems | C / Assembly | In Progress |
